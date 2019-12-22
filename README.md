@@ -27,6 +27,6 @@ This ESM asked users the question, “Is now a good time to talk?” and it reco
 
 ## More...
 
-At the study, this app was installed on Samsung Galaxy S7 smartphone.
-We used DropSync to upload recording audio files in real time.
-All created files (recording files, pixel-difference images) have their file name as time (milliseconds) forms, which can be used to link coincident data.
+- At the study, this app was installed on Samsung Galaxy S7 smartphone.
+- We used DropSync to upload recording audio files in real time.
+- All created files (recording files, pixel-difference images) have their file name as time (milliseconds) forms, which can be used to link coincident data.
