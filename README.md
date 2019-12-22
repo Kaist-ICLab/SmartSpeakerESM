@@ -18,7 +18,7 @@ This ESM asked users the question, “Is now a good time to talk?” and it reco
 2. Starting to collect data (by clicking "START" button)
 3. Finishing to collect data (by clicking "STOP" button)
 
-## How It works
+## How It Works
 - It automatically (re)starts to collect ESM at the start time and pauses to collect ESM at the end time (until you click "STOP" button)
 - During operation time, ESM prompts are randomly triggered or by movement detection at approximately the same interval (20 minutes). 
   - Movement is detected by finding differences between two consecutive real-time preview images by using the Android Camera Library.
